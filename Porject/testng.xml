@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+ <suite name="Suite" parallel="tests" thread-count="2">
+  <!-- <suite name="Suite">  -->
+<listeners>
+<listener class-name="Listners.Listner"/>
+</listeners>
+  <test name="Test">
+
+    <classes>
+   
+      <class name="Tests.VerifyvalidLogin"/>
+       <class name="Tests.VerifyAddress"/>
+      
+    </classes>
+ </test>
+ <!--   <test name="Test1">
+    <classes>
+      <class name="Tests.VerifyvalidLogin"/>
+        <class name="Tests.VerifyAddAddress"/>
+      <class name="Tests.VerifyMyWishList"/> 
+     
+    </classes>
+  </test>   -->
+ 
+   <!-- Test -->
+</suite> <!-- Suite -->

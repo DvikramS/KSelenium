@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="Listners.Listner"/>
+  </listeners>
+  <test thread-count="2" name="Test(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="Tests.VerifyvalidLogin">
+        <methods>
+          <include name="verifyLogin" invocation-numbers="0"/>
+          <include name="cleanup"/>
+        </methods>
+      </class> <!-- Tests.VerifyvalidLogin -->
+      <class name="Tests.VerifyAddress">
+        <methods>
+          <include name="verifyAddress"/>
+        </methods>
+      </class> <!-- Tests.VerifyAddress -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

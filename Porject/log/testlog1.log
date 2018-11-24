@@ -1,0 +1,476 @@
+2018-08-15 18:24:38,829 -Base -INFO -browser opened
+2018-08-15 18:24:39,962 -Base -INFO -Maximized
+2018-08-15 18:25:16,208 -Base -INFO -url opened
+2018-08-15 18:25:18,569 -Login -INFO -signin clicked
+2018-08-15 18:25:18,719 -Login -INFO -username entered
+2018-08-15 18:25:18,833 -Login -INFO -password entered
+2018-08-15 18:25:20,465 -Login -INFO -Login button clicked
+2018-08-15 18:25:30,502 -Login -INFO -assert value finded
+2018-08-15 18:25:32,808 -Login -INFO -browser opened
+2018-08-15 18:25:33,932 -Login -INFO -Maximized
+2018-08-15 18:26:09,860 -Login -INFO -url opened
+2018-08-15 18:26:11,789 -Login -INFO -signin clicked
+2018-08-15 18:26:11,961 -Login -INFO -username entered
+2018-08-15 18:26:12,069 -Login -INFO -password entered
+2018-08-15 18:26:13,464 -Login -INFO -Login button clicked
+2018-08-15 18:44:25,142 -Base -INFO -browser opened
+2018-08-15 18:44:26,274 -Base -INFO -Maximized
+2018-08-15 18:45:03,337 -Base -INFO -url opened
+2018-08-15 18:45:05,511 -Login -INFO -signin clicked
+2018-08-15 18:45:05,652 -Login -INFO -username entered
+2018-08-15 18:45:05,773 -Login -INFO -password entered
+2018-08-15 18:45:07,458 -Login -INFO -Login button clicked
+2018-08-15 18:45:17,496 -Login -INFO -assert value finded
+2018-08-15 18:46:57,000 -Base -INFO -browser opened
+2018-08-15 18:46:58,138 -Base -INFO -Maximized
+2018-08-15 18:47:38,914 -Base -INFO -url opened
+2018-08-15 18:47:41,511 -Login -INFO -signin clicked
+2018-08-15 18:47:41,673 -Login -INFO -username entered
+2018-08-15 18:47:41,774 -Login -INFO -password entered
+2018-08-15 18:47:44,509 -Login -INFO -Login button clicked
+2018-08-15 18:47:54,547 -Login -INFO -assert value finded
+2018-08-15 18:47:59,820 -Login -INFO -signin clicked
+2018-08-15 18:47:59,968 -Login -INFO -username entered
+2018-08-15 18:48:00,050 -Login -INFO -password entered
+2018-08-15 18:48:02,346 -Login -INFO -Login button clicked
+2018-08-15 18:48:12,380 -Login -INFO -assert value finded
+2018-08-15 18:48:16,674 -Login -INFO -signin clicked
+2018-08-15 18:48:16,822 -Login -INFO -username entered
+2018-08-15 18:48:16,908 -Login -INFO -password entered
+2018-08-15 18:48:17,921 -Login -INFO -Login button clicked
+2018-08-15 18:53:27,946 -Base -INFO -browser opened
+2018-08-15 18:53:29,079 -Base -INFO -Maximized
+2018-08-15 18:54:09,296 -Base -INFO -url opened
+2018-08-15 18:54:11,970 -Login -INFO -signin clicked
+2018-08-15 18:54:12,137 -Login -INFO -username entered
+2018-08-15 18:54:12,235 -Login -INFO -password entered
+2018-08-15 18:54:13,848 -Login -INFO -Login button clicked
+2018-08-15 18:54:23,884 -Login -INFO -assert value finded
+2018-08-15 18:54:25,827 -AddAddress -INFO -menu clicked
+2018-08-15 18:54:27,282 -AddAddress -INFO -address clicked
+2018-08-15 18:54:29,179 -AddAddress -INFO -add button clicked
+2018-08-15 18:54:29,274 -AddAddress -INFO -address entered
+2018-08-15 18:54:29,360 -AddAddress -INFO -city entered
+2018-08-15 18:54:29,500 -AddAddress -INFO -state selected
+2018-08-15 18:54:29,566 -AddAddress -INFO -zip entered
+2018-08-15 18:54:29,662 -AddAddress -INFO -phone entered
+2018-08-15 18:54:29,741 -AddAddress -INFO -mobile entered
+2018-08-15 18:54:29,780 -AddAddress -INFO -alias cleared
+2018-08-15 18:54:29,856 -AddAddress -INFO -alias entered
+2018-08-15 18:54:31,778 -AddAddress -INFO -save clicked
+2018-08-15 18:54:33,229 -AddAddress -INFO -menu clicked
+2018-08-15 18:54:34,893 -AddAddress -INFO -address clicked
+2018-08-15 18:54:36,255 -AddAddress -INFO -add button clicked
+2018-08-15 18:54:36,342 -AddAddress -INFO -address entered
+2018-08-15 18:54:36,420 -AddAddress -INFO -city entered
+2018-08-15 18:54:36,551 -AddAddress -INFO -state selected
+2018-08-15 18:54:36,619 -AddAddress -INFO -zip entered
+2018-08-15 18:54:36,705 -AddAddress -INFO -phone entered
+2018-08-15 18:54:36,785 -AddAddress -INFO -mobile entered
+2018-08-15 18:54:36,816 -AddAddress -INFO -alias cleared
+2018-08-15 18:54:36,882 -AddAddress -INFO -alias entered
+2018-08-15 18:54:40,233 -AddAddress -INFO -save clicked
+2018-08-15 18:57:28,893 -Base -INFO -browser opened
+2018-08-15 18:57:30,027 -Base -INFO -Maximized
+2018-08-15 18:58:07,775 -Base -INFO -url opened
+2018-08-15 18:58:10,171 -Login -INFO -signin clicked
+2018-08-15 18:58:10,346 -Login -INFO -username entered
+2018-08-15 18:58:10,441 -Login -INFO -password entered
+2018-08-15 18:58:12,141 -Login -INFO -Login button clicked
+2018-08-15 18:58:22,175 -Login -INFO -assert value finded
+2018-08-15 18:58:23,843 -AddAddress -INFO -menu clicked
+2018-08-15 18:58:24,950 -AddAddress -INFO -address clicked
+2018-08-15 18:58:26,627 -AddAddress -INFO -add button clicked
+2018-08-15 18:58:26,714 -AddAddress -INFO -address entered
+2018-08-15 18:58:26,816 -AddAddress -INFO -city entered
+2018-08-15 18:58:26,970 -AddAddress -INFO -state selected
+2018-08-15 18:58:27,047 -AddAddress -INFO -zip entered
+2018-08-15 18:58:27,135 -AddAddress -INFO -phone entered
+2018-08-15 18:58:27,223 -AddAddress -INFO -mobile entered
+2018-08-15 18:58:27,260 -AddAddress -INFO -alias cleared
+2018-08-15 18:58:27,335 -AddAddress -INFO -alias entered
+2018-08-15 18:58:29,017 -AddAddress -INFO -save clicked
+2018-08-15 18:58:30,449 -AddAddress -INFO -menu clicked
+2018-08-15 18:58:31,546 -AddAddress -INFO -address clicked
+2018-08-15 18:58:32,929 -AddAddress -INFO -add button clicked
+2018-08-15 18:58:33,015 -AddAddress -INFO -address entered
+2018-08-15 18:58:33,091 -AddAddress -INFO -city entered
+2018-08-15 18:58:33,219 -AddAddress -INFO -state selected
+2018-08-15 18:58:33,295 -AddAddress -INFO -zip entered
+2018-08-15 18:58:33,397 -AddAddress -INFO -phone entered
+2018-08-15 18:58:33,476 -AddAddress -INFO -mobile entered
+2018-08-15 18:58:33,514 -AddAddress -INFO -alias cleared
+2018-08-15 18:58:33,587 -AddAddress -INFO -alias entered
+2018-08-15 18:58:36,395 -AddAddress -INFO -save clicked
+2018-08-15 19:00:40,984 -Base -INFO -browser opened
+2018-08-15 19:00:42,112 -Base -INFO -Maximized
+2018-08-15 19:01:19,103 -Base -INFO -url opened
+2018-08-15 19:01:21,237 -Login -INFO -signin clicked
+2018-08-15 19:01:21,430 -Login -INFO -username entered
+2018-08-15 19:01:21,515 -Login -INFO -password entered
+2018-08-15 19:01:23,124 -Login -INFO -Login button clicked
+2018-08-15 19:01:33,160 -Login -INFO -assert value finded
+2018-08-15 19:01:34,745 -AddAddress -INFO -menu clicked
+2018-08-15 19:01:35,819 -AddAddress -INFO -address clicked
+2018-08-15 19:01:37,547 -AddAddress -INFO -add button clicked
+2018-08-15 19:01:37,642 -AddAddress -INFO -address entered
+2018-08-15 19:01:37,738 -AddAddress -INFO -city entered
+2018-08-15 19:01:37,873 -AddAddress -INFO -state selected
+2018-08-15 19:01:37,943 -AddAddress -INFO -zip entered
+2018-08-15 19:01:38,035 -AddAddress -INFO -phone entered
+2018-08-15 19:01:38,113 -AddAddress -INFO -mobile entered
+2018-08-15 19:01:38,149 -AddAddress -INFO -alias cleared
+2018-08-15 19:01:38,217 -AddAddress -INFO -alias entered
+2018-08-15 19:01:39,964 -AddAddress -INFO -save clicked
+2018-08-15 19:01:51,766 -AddAddress -INFO -menu clicked
+2018-08-15 19:01:52,810 -AddAddress -INFO -address clicked
+2018-08-15 19:01:53,906 -AddAddress -INFO -add button clicked
+2018-08-15 19:01:53,978 -AddAddress -INFO -address entered
+2018-08-15 19:01:54,074 -AddAddress -INFO -city entered
+2018-08-15 19:01:54,215 -AddAddress -INFO -state selected
+2018-08-15 19:01:54,292 -AddAddress -INFO -zip entered
+2018-08-15 19:01:54,391 -AddAddress -INFO -phone entered
+2018-08-15 19:01:54,473 -AddAddress -INFO -mobile entered
+2018-08-15 19:01:54,510 -AddAddress -INFO -alias cleared
+2018-08-15 19:01:54,591 -AddAddress -INFO -alias entered
+2018-08-15 19:01:57,684 -AddAddress -INFO -save clicked
+2018-08-15 19:05:56,957 -Base -INFO -browser opened
+2018-08-15 19:05:58,621 -Base -INFO -Maximized
+2018-08-15 19:06:41,070 -Base -INFO -url opened
+2018-08-15 19:06:43,792 -Login -INFO -signin clicked
+2018-08-15 19:06:43,969 -Login -INFO -username entered
+2018-08-15 19:06:44,066 -Login -INFO -password entered
+2018-08-15 19:06:46,042 -Login -INFO -Login button clicked
+2018-08-15 19:06:56,079 -Login -INFO -assert value finded
+2018-08-15 19:06:57,686 -AddAddress -INFO -menu clicked
+2018-08-15 19:06:58,949 -AddAddress -INFO -address clicked
+2018-08-15 19:07:00,714 -AddAddress -INFO -add button clicked
+2018-08-15 19:07:00,801 -AddAddress -INFO -address entered
+2018-08-15 19:07:00,874 -AddAddress -INFO -city entered
+2018-08-15 19:07:01,014 -AddAddress -INFO -state selected
+2018-08-15 19:07:01,097 -AddAddress -INFO -zip entered
+2018-08-15 19:07:01,188 -AddAddress -INFO -phone entered
+2018-08-15 19:07:01,285 -AddAddress -INFO -mobile entered
+2018-08-15 19:07:01,323 -AddAddress -INFO -alias cleared
+2018-08-15 19:07:01,389 -AddAddress -INFO -alias entered
+2018-08-15 19:07:03,436 -AddAddress -INFO -save clicked
+2018-08-15 19:11:45,895 -Base -INFO -browser opened
+2018-08-15 19:11:47,030 -Base -INFO -Maximized
+2018-08-15 19:12:01,236 -Base -INFO -browser opened
+2018-08-15 19:12:02,374 -Base -INFO -Maximized
+2018-08-15 19:12:39,809 -Base -INFO -url opened
+2018-08-15 19:12:47,771 -Login -INFO -signin clicked
+2018-08-15 19:12:47,936 -Login -INFO -username entered
+2018-08-15 19:12:48,022 -Login -INFO -password entered
+2018-08-15 19:12:55,020 -Login -INFO -Login button clicked
+2018-08-15 19:13:05,063 -Login -INFO -assert value finded
+2018-08-15 19:13:11,711 -AddAddress -INFO -menu clicked
+2018-08-15 19:13:19,217 -AddAddress -INFO -address clicked
+2018-08-15 19:13:21,883 -AddAddress -INFO -add button clicked
+2018-08-15 19:13:21,969 -AddAddress -INFO -address entered
+2018-08-15 19:13:22,042 -AddAddress -INFO -city entered
+2018-08-15 19:13:22,176 -AddAddress -INFO -state selected
+2018-08-15 19:13:22,247 -AddAddress -INFO -zip entered
+2018-08-15 19:13:22,333 -AddAddress -INFO -phone entered
+2018-08-15 19:13:22,416 -AddAddress -INFO -mobile entered
+2018-08-15 19:13:22,454 -AddAddress -INFO -alias cleared
+2018-08-15 19:13:22,520 -AddAddress -INFO -alias entered
+2018-08-15 19:13:29,399 -AddAddress -INFO -save clicked
+2018-08-15 19:14:28,176 -Base -INFO -browser opened
+2018-08-15 19:14:29,311 -Base -INFO -Maximized
+2018-08-15 19:15:08,511 -Base -INFO -url opened
+2018-08-15 19:15:11,423 -Login -INFO -signin clicked
+2018-08-15 19:15:11,615 -Login -INFO -username entered
+2018-08-15 19:15:11,712 -Login -INFO -password entered
+2018-08-15 19:15:13,358 -Login -INFO -Login button clicked
+2018-08-15 19:15:23,394 -Login -INFO -assert value finded
+2018-08-15 19:15:25,098 -AddAddress -INFO -menu clicked
+2018-08-15 19:15:26,138 -AddAddress -INFO -address clicked
+2018-08-15 19:15:27,798 -AddAddress -INFO -add button clicked
+2018-08-15 19:15:27,887 -AddAddress -INFO -address entered
+2018-08-15 19:15:27,970 -AddAddress -INFO -city entered
+2018-08-15 19:15:28,113 -AddAddress -INFO -state selected
+2018-08-15 19:15:28,185 -AddAddress -INFO -zip entered
+2018-08-15 19:15:28,278 -AddAddress -INFO -phone entered
+2018-08-15 19:15:28,360 -AddAddress -INFO -mobile entered
+2018-08-15 19:15:28,395 -AddAddress -INFO -alias cleared
+2018-08-15 19:15:28,461 -AddAddress -INFO -alias entered
+2018-08-15 19:15:30,091 -AddAddress -INFO -save clicked
+2018-08-15 19:18:42,746 -Base -INFO -browser opened
+2018-08-15 19:18:43,875 -Base -INFO -Maximized
+2018-08-15 19:19:19,936 -Base -INFO -url opened
+2018-08-15 19:19:22,200 -Login -INFO -signin clicked
+2018-08-15 19:19:22,447 -Login -INFO -username entered
+2018-08-15 19:19:22,538 -Login -INFO -password entered
+2018-08-15 19:19:24,280 -Login -INFO -Login button clicked
+2018-08-15 19:19:34,316 -Login -INFO -assert value finded
+2018-08-15 19:19:35,918 -AddAddress -INFO -menu clicked
+2018-08-15 19:19:36,981 -AddAddress -INFO -address clicked
+2018-08-15 19:19:38,703 -AddAddress -INFO -add button clicked
+2018-08-15 19:19:38,794 -AddAddress -INFO -address entered
+2018-08-15 19:19:38,881 -AddAddress -INFO -city entered
+2018-08-15 19:19:39,023 -AddAddress -INFO -state selected
+2018-08-15 19:19:39,092 -AddAddress -INFO -zip entered
+2018-08-15 19:19:39,182 -AddAddress -INFO -phone entered
+2018-08-15 19:19:39,270 -AddAddress -INFO -mobile entered
+2018-08-15 19:19:39,306 -AddAddress -INFO -alias cleared
+2018-08-15 19:19:39,380 -AddAddress -INFO -alias entered
+2018-08-15 19:19:41,555 -AddAddress -INFO -save clicked
+2018-08-15 19:20:27,546 -Base -INFO -browser opened
+2018-08-15 19:20:28,689 -Base -INFO -Maximized
+2018-08-15 19:21:05,877 -Base -INFO -url opened
+2018-08-15 19:21:08,172 -Login -INFO -signin clicked
+2018-08-15 19:21:08,316 -Login -INFO -username entered
+2018-08-15 19:21:08,399 -Login -INFO -password entered
+2018-08-15 19:21:10,232 -Login -INFO -Login button clicked
+2018-08-15 19:21:20,269 -Login -INFO -assert value finded
+2018-08-15 19:21:21,865 -AddAddress -INFO -menu clicked
+2018-08-15 19:21:22,883 -AddAddress -INFO -address clicked
+2018-08-15 19:21:24,438 -AddAddress -INFO -add button clicked
+2018-08-15 19:21:24,529 -AddAddress -INFO -address entered
+2018-08-15 19:21:24,606 -AddAddress -INFO -city entered
+2018-08-15 19:21:24,753 -AddAddress -INFO -state selected
+2018-08-15 19:21:24,824 -AddAddress -INFO -zip entered
+2018-08-15 19:21:24,914 -AddAddress -INFO -phone entered
+2018-08-15 19:21:24,994 -AddAddress -INFO -mobile entered
+2018-08-15 19:21:25,031 -AddAddress -INFO -alias cleared
+2018-08-15 19:21:25,109 -AddAddress -INFO -alias entered
+2018-08-15 19:21:26,665 -AddAddress -INFO -save clicked
+2018-08-15 19:27:13,997 -Base -INFO -browser opened
+2018-08-15 19:27:15,133 -Base -INFO -Maximized
+2018-08-15 19:27:50,706 -Base -INFO -url opened
+2018-08-15 19:27:53,087 -Login -INFO -signin clicked
+2018-08-15 19:27:53,282 -Login -INFO -username entered
+2018-08-15 19:27:53,369 -Login -INFO -password entered
+2018-08-15 19:27:56,366 -Login -INFO -Login button clicked
+2018-08-15 19:28:06,402 -Login -INFO -assert value finded
+2018-08-15 19:28:08,230 -AddAddress -INFO -menu clicked
+2018-08-15 19:28:09,779 -AddAddress -INFO -address clicked
+2018-08-15 19:28:11,797 -AddAddress -INFO -add button clicked
+2018-08-15 19:28:11,887 -AddAddress -INFO -address entered
+2018-08-15 19:28:11,976 -AddAddress -INFO -city entered
+2018-08-15 19:28:12,122 -AddAddress -INFO -state selected
+2018-08-15 19:28:12,196 -AddAddress -INFO -zip entered
+2018-08-15 19:28:12,295 -AddAddress -INFO -phone entered
+2018-08-15 19:28:12,385 -AddAddress -INFO -mobile entered
+2018-08-15 19:28:12,424 -AddAddress -INFO -alias cleared
+2018-08-15 19:28:12,495 -AddAddress -INFO -alias entered
+2018-08-15 19:28:14,492 -AddAddress -INFO -save clicked
+2018-08-15 19:28:45,775 -Base -INFO -browser opened
+2018-08-15 19:28:46,912 -Base -INFO -Maximized
+2018-08-15 19:29:23,611 -Base -INFO -url opened
+2018-08-15 19:29:25,548 -Login -INFO -signin clicked
+2018-08-15 19:29:25,779 -Login -INFO -username entered
+2018-08-15 19:29:25,891 -Login -INFO -password entered
+2018-08-15 19:29:27,504 -Login -INFO -Login button clicked
+2018-08-15 19:29:37,539 -Login -INFO -assert value finded
+2018-08-15 19:29:39,144 -AddAddress -INFO -menu clicked
+2018-08-15 19:29:40,192 -AddAddress -INFO -address clicked
+2018-08-15 19:29:41,970 -AddAddress -INFO -add button clicked
+2018-08-15 19:29:42,064 -AddAddress -INFO -address entered
+2018-08-15 19:29:42,157 -AddAddress -INFO -city entered
+2018-08-15 19:29:42,303 -AddAddress -INFO -state selected
+2018-08-15 19:29:42,383 -AddAddress -INFO -zip entered
+2018-08-15 19:29:42,471 -AddAddress -INFO -phone entered
+2018-08-15 19:29:42,555 -AddAddress -INFO -mobile entered
+2018-08-15 19:29:42,591 -AddAddress -INFO -alias cleared
+2018-08-15 19:29:42,667 -AddAddress -INFO -alias entered
+2018-08-15 19:29:44,476 -AddAddress -INFO -save clicked
+2018-08-15 19:31:09,200 -Base -INFO -browser opened
+2018-08-15 19:31:10,336 -Base -INFO -Maximized
+2018-08-15 19:31:46,017 -Base -INFO -url opened
+2018-08-15 19:31:48,199 -Login -INFO -signin clicked
+2018-08-15 19:31:48,361 -Login -INFO -username entered
+2018-08-15 19:31:48,448 -Login -INFO -password entered
+2018-08-15 19:31:50,090 -Login -INFO -Login button clicked
+2018-08-15 19:32:00,139 -Login -INFO -assert value finded
+2018-08-15 19:32:02,090 -AddAddress -INFO -menu clicked
+2018-08-15 19:32:03,289 -AddAddress -INFO -address clicked
+2018-08-15 19:32:04,857 -AddAddress -INFO -add button clicked
+2018-08-15 19:32:04,969 -AddAddress -INFO -address entered
+2018-08-15 19:32:05,083 -AddAddress -INFO -city entered
+2018-08-15 19:32:05,239 -AddAddress -INFO -state selected
+2018-08-15 19:32:05,324 -AddAddress -INFO -zip entered
+2018-08-15 19:32:05,498 -AddAddress -INFO -phone entered
+2018-08-15 19:32:05,606 -AddAddress -INFO -mobile entered
+2018-08-15 19:32:05,643 -AddAddress -INFO -alias cleared
+2018-08-15 19:32:05,720 -AddAddress -INFO -alias entered
+2018-08-15 19:32:07,435 -AddAddress -INFO -save clicked
+2018-08-15 19:42:10,306 -Base -INFO -browser opened
+2018-08-15 19:42:11,441 -Base -INFO -Maximized
+2018-08-15 19:42:49,801 -Base -INFO -url opened
+2018-08-15 19:42:52,342 -Login -INFO -signin clicked
+2018-08-15 19:42:52,502 -Login -INFO -username entered
+2018-08-15 19:42:52,623 -Login -INFO -password entered
+2018-08-15 19:42:54,414 -Login -INFO -Login button clicked
+2018-08-15 19:43:04,451 -Login -INFO -assert value finded
+2018-08-15 19:43:06,337 -AddAddress -INFO -menu clicked
+2018-08-15 19:43:07,722 -AddAddress -INFO -address clicked
+2018-08-15 19:43:09,380 -AddAddress -INFO -add button clicked
+2018-08-15 19:43:09,469 -AddAddress -INFO -address entered
+2018-08-15 19:43:09,559 -AddAddress -INFO -city entered
+2018-08-15 19:43:09,712 -AddAddress -INFO -state selected
+2018-08-15 19:43:09,790 -AddAddress -INFO -zip entered
+2018-08-15 19:43:09,885 -AddAddress -INFO -phone entered
+2018-08-15 19:43:09,982 -AddAddress -INFO -mobile entered
+2018-08-15 19:43:10,020 -AddAddress -INFO -alias cleared
+2018-08-15 19:43:10,101 -AddAddress -INFO -alias entered
+2018-08-15 19:43:11,683 -AddAddress -INFO -save clicked
+2018-08-15 19:43:38,646 -Base -INFO -browser opened
+2018-08-15 19:43:39,777 -Base -INFO -Maximized
+2018-08-15 19:44:17,273 -Base -INFO -url opened
+2018-08-15 19:44:19,439 -Login -INFO -signin clicked
+2018-08-15 19:44:19,649 -Login -INFO -username entered
+2018-08-15 19:44:19,750 -Login -INFO -password entered
+2018-08-15 19:44:21,342 -Login -INFO -Login button clicked
+2018-08-15 19:44:31,381 -Login -INFO -assert value finded
+2018-08-15 19:44:33,382 -AddAddress -INFO -menu clicked
+2018-08-15 19:44:34,709 -AddAddress -INFO -address clicked
+2018-08-15 19:44:36,537 -AddAddress -INFO -add button clicked
+2018-08-15 19:44:36,641 -AddAddress -INFO -address entered
+2018-08-15 19:44:36,726 -AddAddress -INFO -city entered
+2018-08-15 19:44:36,878 -AddAddress -INFO -state selected
+2018-08-15 19:44:36,961 -AddAddress -INFO -zip entered
+2018-08-15 19:44:37,058 -AddAddress -INFO -phone entered
+2018-08-15 19:44:37,161 -AddAddress -INFO -mobile entered
+2018-08-15 19:44:37,200 -AddAddress -INFO -alias cleared
+2018-08-15 19:44:37,273 -AddAddress -INFO -alias entered
+2018-08-15 19:44:39,220 -AddAddress -INFO -save clicked
+2018-08-16 19:32:54,677 -Base -INFO -chrome capability set
+2018-08-16 19:32:54,677 -Base -INFO -chrome capability set
+2018-08-16 19:33:47,177 -Base -INFO -chrome capability set
+2018-08-16 19:33:47,177 -Base -INFO -chrome capability set
+2018-08-16 19:33:50,135 -Base -INFO -driver initilized
+2018-08-16 19:33:50,135 -Base -INFO -browser opened
+2018-08-16 19:33:51,296 -Base -INFO -Maximized
+2018-08-16 19:34:32,440 -Base -INFO -URL opened
+2018-08-16 19:34:39,435 -Login -INFO -signin clicked
+2018-08-16 19:34:39,695 -Login -INFO -username entered
+2018-08-16 19:34:39,814 -Login -INFO -password entered
+2018-08-16 19:34:41,682 -Login -INFO -Login button clicked
+2018-08-16 19:34:51,759 -Login -INFO -assert value finded
+2018-08-16 19:34:53,533 -Address -INFO -menu Clicked
+2018-08-16 19:34:55,062 -Address -INFO -my add Clicked
+2018-08-16 19:35:05,152 -Address -INFO -assert captured
+2018-08-16 19:37:53,948 -Base -INFO -chrome capability set
+2018-08-16 19:37:53,948 -Base -INFO -chrome capability set
+2018-08-17 08:36:27,931 -Base -INFO -chrome capability set
+2018-08-17 08:36:27,931 -Base -INFO -chrome capability set
+2018-08-17 08:39:02,816 -Base -INFO -chrome capability set
+2018-08-17 08:39:02,816 -Base -INFO -chrome capability set
+2018-08-17 08:42:37,456 -Base -INFO -chrome capability set
+2018-08-17 08:42:37,456 -Base -INFO -chrome capability set
+2018-08-17 08:45:22,293 -Base -INFO -chrome capability set
+2018-08-17 08:57:06,403 -Base -INFO -chrome capability set
+2018-08-17 08:58:46,802 -Base -INFO -browser opened
+2018-08-17 08:58:47,942 -Base -INFO -Maximized
+2018-08-17 08:58:57,421 -Base -INFO -url opened
+2018-08-17 08:58:59,884 -Login -INFO -signin clicked
+2018-08-17 08:59:00,198 -Login -INFO -username entered
+2018-08-17 08:59:00,295 -Login -INFO -password entered
+2018-08-17 08:59:03,851 -Login -INFO -Login button clicked
+2018-08-17 08:59:13,884 -Login -INFO -assert value finded
+2018-08-17 08:59:15,611 -Address -INFO -menu Clicked
+2018-08-17 08:59:17,047 -Address -INFO -my add Clicked
+2018-08-17 08:59:27,102 -Address -INFO -assert captured
+2018-08-17 09:03:02,303 -Base -INFO -chrome capability set
+2018-08-17 09:11:00,091 -Base -INFO -chrome capability set
+2018-08-17 09:13:06,020 -Base -INFO -chrome capability set
+2018-08-17 09:42:33,919 -Base -INFO -chrome capability set
+2018-08-17 09:43:17,066 -Base -INFO -chrome capability set
+2018-08-17 09:47:25,264 -Base -INFO -chrome capability set
+2018-08-17 09:48:28,343 -Base -INFO -chrome capability set
+2018-08-17 09:48:31,143 -Base -INFO -driver initilized
+2018-08-17 09:48:31,149 -Base -INFO -browser opened
+2018-08-17 09:48:32,309 -Base -INFO -Maximized
+2018-08-17 09:48:49,764 -Base -INFO -URL opened
+2018-08-17 09:48:52,895 -Login -INFO -signin clicked
+2018-08-17 09:48:53,126 -Login -INFO -username entered
+2018-08-17 09:48:53,235 -Login -INFO -password entered
+2018-08-17 09:48:57,137 -Login -INFO -Login button clicked
+2018-08-17 09:49:07,254 -Login -INFO -assert value finded
+2018-08-17 09:49:08,852 -Address -INFO -menu Clicked
+2018-08-17 09:49:10,959 -Address -INFO -my add Clicked
+2018-08-17 09:49:21,051 -Address -INFO -assert captured
+2018-08-17 09:49:49,289 -Base -INFO -chrome capability set
+2018-08-17 09:49:49,289 -Base -INFO -chrome capability set
+2018-08-17 09:52:10,467 -Base -INFO -chrome capability set
+2018-08-17 09:52:10,467 -Base -INFO -chrome capability set
+2018-08-17 19:17:00,336 -Base -INFO -chrome capability set
+2018-08-17 19:17:04,298 -Base -INFO -driver initilized
+2018-08-17 19:17:04,298 -Base -INFO -browser opened
+2018-08-17 19:17:05,627 -Base -INFO -Maximized
+2018-08-17 19:22:10,376 -Base -INFO -chrome capability set
+2018-08-17 19:22:14,208 -Base -INFO -driver initilized
+2018-08-17 19:22:14,214 -Base -INFO -browser opened
+2018-08-17 19:22:15,558 -Base -INFO -Maximized
+2018-08-17 19:22:50,098 -Base -INFO -URL opened
+2018-08-17 19:24:06,092 -Base -INFO -chrome capability set
+2018-08-17 19:26:29,725 -Base -INFO -chrome capability set
+2018-08-17 19:26:57,658 -Base -INFO -chrome capability set
+2018-08-17 19:27:13,274 -Base -INFO -chrome capability set
+2018-08-17 19:49:28,119 -Base -INFO -chrome capability set
+2018-08-17 19:49:30,769 -Base -INFO -driver initilized
+2018-08-17 19:49:30,769 -Base -INFO -browser opened
+2018-08-17 19:49:31,916 -Base -INFO -Maximized
+2018-08-17 19:50:08,417 -Base -INFO -URL opened
+2018-08-17 20:03:19,638 -Base -INFO -chrome capability set
+2018-08-17 20:04:53,037 -Base -INFO -chrome capability set
+2018-08-17 20:06:38,427 -Base -INFO -chrome capability set
+2018-08-17 20:07:07,969 -Base -INFO -chrome capability set
+2018-08-17 20:17:42,601 -Base -INFO -chrome capability set
+2018-08-17 20:18:42,321 -Base -INFO -chrome capability set
+2018-08-17 20:19:50,073 -Base -INFO -chrome capability set
+2018-08-17 20:20:20,368 -Base -INFO -driver initilized
+2018-08-17 20:20:20,368 -Base -INFO -browser opened
+2018-08-17 20:20:21,520 -Base -INFO -Maximized
+2018-08-17 20:20:57,681 -Base -INFO -URL opened
+2018-08-17 20:20:59,924 -Login -INFO -signin clicked
+2018-08-17 20:21:00,124 -Login -INFO -username entered
+2018-08-17 20:21:00,231 -Login -INFO -password entered
+2018-08-17 20:21:01,978 -Login -INFO -Login button clicked
+2018-08-17 20:21:12,059 -Login -INFO -assert value finded
+2018-08-17 20:21:13,673 -Address -INFO -menu Clicked
+2018-08-17 20:21:14,816 -Address -INFO -my add Clicked
+2018-08-17 20:21:24,880 -Address -INFO -assert captured
+2018-08-17 20:22:08,352 -Base -INFO -chrome capability set
+2018-08-17 20:22:08,352 -Base -INFO -chrome capability set
+2018-08-17 20:27:29,147 -Base -INFO -chrome capability set
+2018-08-17 21:32:02,447 -Base -INFO -driver initilized
+2018-08-17 21:32:02,447 -Base -INFO -browser opened
+2018-08-17 21:32:03,705 -Base -INFO -Maximized
+2018-08-17 21:32:32,669 -Base -INFO -URL opened
+2018-08-17 21:32:39,024 -Login -INFO -signin clicked
+2018-08-18 09:27:46,521 -Base -INFO -browser opened
+2018-08-18 09:27:47,688 -Base -INFO -Maximized
+2018-08-18 09:28:25,632 -Base -INFO -url opened
+2018-08-18 09:28:27,767 -Login -INFO -signin clicked
+2018-08-18 09:28:27,923 -Login -INFO -username entered
+2018-08-18 09:28:28,019 -Login -INFO -password entered
+2018-08-18 09:28:29,961 -Login -INFO -Login button clicked
+2018-08-18 09:28:40,036 -Login -INFO -assert value finded
+2018-08-18 09:28:41,589 -Address -INFO -menu Clicked
+2018-08-18 09:28:42,745 -Address -INFO -my add Clicked
+2018-08-18 09:28:52,817 -Address -INFO -assert captured
+2018-08-18 09:42:09,189 -Base -INFO -chrome capability set
+2018-08-18 09:42:11,608 -Base -INFO -driver initilized
+2018-08-18 09:42:11,622 -Base -INFO -browser opened
+2018-08-18 09:42:12,819 -Base -INFO -Maximized
+2018-08-18 09:42:50,370 -Base -INFO -URL opened
+2018-08-18 09:42:52,881 -Login -INFO -signin clicked
+2018-08-18 09:42:53,086 -Login -INFO -username entered
+2018-08-18 09:42:53,218 -Login -INFO -password entered
+2018-08-18 09:42:54,873 -Login -INFO -Login button clicked
+2018-08-18 09:43:05,029 -Login -INFO -assert value finded
+2018-08-18 09:43:06,612 -Address -INFO -menu Clicked
+2018-08-18 09:43:07,788 -Address -INFO -my add Clicked
+2018-08-18 09:43:17,937 -Address -INFO -assert captured
+2018-08-18 09:46:15,358 -Base -INFO -chrome capability set
+2018-10-10 19:43:13,609 -Base -INFO -chrome capability set
+2018-10-10 19:44:27,136 -Base -INFO -browser opened
+2018-10-10 19:44:28,270 -Base -INFO -Maximized
+2018-10-15 20:07:57,946 -Base -INFO -browser opened
+2018-10-15 20:07:59,111 -Base -INFO -Maximized
+2018-10-15 20:08:14,968 -Base -INFO -url opened
+2018-10-15 20:08:42,101 -Base -INFO -browser opened
+2018-10-15 20:08:43,241 -Base -INFO -Maximized
