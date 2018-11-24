@@ -1,0 +1,334 @@
+2018-08-21 23:08:47,082 -CucumberRunner -INFO -driver initilized
+2018-08-21 23:08:47,086 -CucumberRunner -INFO -browser opened
+2018-08-21 23:08:48,241 -CucumberRunner -INFO -maximized
+2018-08-21 23:09:24,156 -CucumberRunner -INFO -URL Opened
+2018-08-21 23:09:26,590 -Login -INFO -signin clicked
+2018-08-21 23:09:26,771 -Login -INFO -username entered
+2018-08-21 23:09:26,879 -Login -INFO -password entered
+2018-08-21 23:09:28,586 -Login -INFO -Login button clicked
+2018-08-21 23:09:38,629 -Login -INFO -assert value finded
+2018-08-21 23:16:08,733 -CucumberRunner -INFO -driver initilized
+2018-08-21 23:16:08,744 -CucumberRunner -INFO -browser opened
+2018-08-21 23:16:09,872 -CucumberRunner -INFO -maximized
+2018-08-21 23:16:45,068 -CucumberRunner -INFO -URL Opened
+2018-08-21 23:16:47,753 -Login -INFO -signin clicked
+2018-08-21 23:16:47,933 -Login -INFO -username entered
+2018-08-21 23:16:48,031 -Login -INFO -password entered
+2018-08-21 23:16:49,727 -Login -INFO -Login button clicked
+2018-08-21 23:19:10,860 -CucumberRunner -INFO -driver initilized
+2018-08-21 23:19:10,872 -CucumberRunner -INFO -browser opened
+2018-08-21 23:19:12,031 -CucumberRunner -INFO -maximized
+2018-08-21 23:19:48,331 -CucumberRunner -INFO -URL Opened
+2018-08-21 23:19:50,741 -Login -INFO -signin clicked
+2018-08-21 23:19:50,909 -Login -INFO -username entered
+2018-08-21 23:19:51,014 -Login -INFO -password entered
+2018-08-21 23:19:51,975 -Login -INFO -Login button clicked
+2018-08-21 23:36:36,699 -CucumberRunner -INFO -driver initilized
+2018-08-21 23:36:36,703 -CucumberRunner -INFO -browser opened
+2018-08-21 23:36:37,859 -CucumberRunner -INFO -maximized
+2018-08-21 23:37:20,023 -CucumberRunner -INFO -URL Opened
+2018-08-21 23:37:53,875 -Login -INFO -signin clicked
+2018-08-21 23:37:54,048 -Login -INFO -username entered
+2018-08-21 23:37:54,146 -Login -INFO -password entered
+2018-08-21 23:37:55,785 -Login -INFO -Login button clicked
+2018-08-21 23:38:05,844 -Login -INFO -assert value finded
+2018-08-21 23:41:55,674 -CucumberRunner -INFO -driver initilized
+2018-08-21 23:41:55,688 -CucumberRunner -INFO -browser opened
+2018-08-21 23:41:56,844 -CucumberRunner -INFO -maximized
+2018-08-21 23:42:24,036 -CucumberRunner -INFO -driver initilized
+2018-08-21 23:42:24,051 -CucumberRunner -INFO -browser opened
+2018-08-21 23:42:25,181 -CucumberRunner -INFO -maximized
+2018-08-21 23:43:08,575 -CucumberRunner -INFO -URL Opened
+2018-08-21 23:43:11,749 -Login -INFO -signin clicked
+2018-08-21 23:43:11,945 -Login -INFO -username entered
+2018-08-21 23:43:12,040 -Login -INFO -password entered
+2018-08-21 23:43:13,774 -Login -INFO -Login button clicked
+2018-08-21 23:43:23,828 -Login -INFO -assert value finded
+2018-08-21 23:48:03,238 -CucumberRunner -INFO -driver initilized
+2018-08-21 23:48:03,250 -CucumberRunner -INFO -browser opened
+2018-08-21 23:48:04,394 -CucumberRunner -INFO -maximized
+2018-08-21 23:48:42,808 -CucumberRunner -INFO -URL Opened
+2018-08-21 23:48:46,221 -Login -INFO -signin clicked
+2018-08-21 23:48:46,404 -Login -INFO -username entered
+2018-08-21 23:48:46,503 -Login -INFO -password entered
+2018-08-21 23:48:48,066 -Login -INFO -Login button clicked
+2018-08-21 23:48:58,098 -Login -INFO -assert value finded
+2018-08-21 23:53:19,270 -CucumberRunner -INFO -driver initilized
+2018-08-21 23:53:19,281 -CucumberRunner -INFO -browser opened
+2018-08-21 23:53:20,463 -CucumberRunner -INFO -maximized
+2018-08-21 23:53:56,805 -CucumberRunner -INFO -URL Opened
+2018-08-21 23:54:05,645 -Login -INFO -signin clicked
+2018-08-21 23:54:05,811 -Login -INFO -username entered
+2018-08-21 23:54:05,895 -Login -INFO -password entered
+2018-08-21 23:54:12,650 -Login -INFO -Login button clicked
+2018-08-21 23:54:22,711 -Login -INFO -assert value finded
+2018-08-22 09:08:13,415 -CucumberRunner -INFO -driver initilized
+2018-08-22 09:08:13,418 -CucumberRunner -INFO -browser opened
+2018-08-22 09:08:14,576 -CucumberRunner -INFO -maximized
+2018-08-22 09:08:24,211 -CucumberRunner -INFO -URL Opened
+2018-08-22 09:08:33,150 -Login -INFO -signin clicked
+2018-08-22 09:08:33,331 -Login -INFO -username entered
+2018-08-22 09:08:33,413 -Login -INFO -password entered
+2018-08-22 09:08:41,068 -Login -INFO -Login button clicked
+2018-08-22 09:08:51,111 -Login -INFO -assert value finded
+2018-08-22 09:09:59,348 -CucumberRunner -INFO -driver initilized
+2018-08-22 09:09:59,352 -CucumberRunner -INFO -browser opened
+2018-08-22 09:10:00,524 -CucumberRunner -INFO -maximized
+2018-08-22 09:10:06,813 -CucumberRunner -INFO -URL Opened
+2018-08-22 09:10:09,814 -Login -INFO -signin clicked
+2018-08-22 09:10:10,010 -Login -INFO -username entered
+2018-08-22 09:10:10,111 -Login -INFO -password entered
+2018-08-22 09:10:12,466 -Login -INFO -Login button clicked
+2018-08-22 09:10:22,533 -Login -INFO -assert value finded
+2018-08-22 09:10:24,272 -VerifyAddress -INFO -menu Clicked
+2018-08-22 09:10:26,173 -VerifyAddress -INFO -my add Clicked
+2018-08-22 09:10:36,234 -VerifyAddress -INFO -assert captured
+2018-08-22 19:02:52,082 -CucumberRunner -INFO -driver initilized
+2018-08-22 19:02:52,086 -CucumberRunner -INFO -browser opened
+2018-08-22 19:02:53,224 -CucumberRunner -INFO -maximized
+2018-08-22 19:03:31,776 -CucumberRunner -INFO -URL Opened
+2018-08-22 19:03:40,017 -Login -INFO -signin clicked
+2018-08-22 19:03:40,238 -Login -INFO -username entered
+2018-08-22 19:03:40,353 -Login -INFO -password entered
+2018-08-22 19:03:47,616 -Login -INFO -Login button clicked
+2018-08-22 19:03:57,688 -Login -INFO -assert value finded
+2018-08-22 19:04:44,348 -VerifyAddress -INFO -menu Clicked
+2018-08-22 19:04:51,505 -VerifyAddress -INFO -my add Clicked
+2018-08-22 19:05:01,602 -VerifyAddress -INFO -assert captured
+2018-08-22 19:06:35,634 -CucumberRunner -INFO -driver initilized
+2018-08-22 19:06:35,640 -CucumberRunner -INFO -browser opened
+2018-08-22 19:06:36,794 -CucumberRunner -INFO -maximized
+2018-08-22 19:07:16,047 -CucumberRunner -INFO -URL Opened
+2018-08-22 19:10:35,777 -CucumberRunner -INFO -driver initilized
+2018-08-22 19:10:35,783 -CucumberRunner -INFO -browser opened
+2018-08-22 19:10:36,924 -CucumberRunner -INFO -maximized
+2018-08-22 19:11:13,761 -CucumberRunner -INFO -URL Opened
+2018-08-22 19:11:16,376 -Login -INFO -signin clicked
+2018-08-22 19:11:16,604 -Login -INFO -username entered
+2018-08-22 19:11:16,693 -Login -INFO -password entered
+2018-08-22 19:11:18,431 -Login -INFO -Login button clicked
+2018-08-22 19:11:28,483 -Login -INFO -assert value finded
+2018-08-22 19:11:30,313 -VerifyAddress -INFO -menu Clicked
+2018-08-22 19:11:31,486 -VerifyAddress -INFO -my add Clicked
+2018-08-22 19:11:41,553 -VerifyAddress -INFO -assert captured
+2018-08-22 19:15:24,543 -CucumberRunner -INFO -driver initilized
+2018-08-22 19:15:24,547 -CucumberRunner -INFO -browser opened
+2018-08-22 19:15:25,693 -CucumberRunner -INFO -maximized
+2018-08-22 19:16:03,777 -CucumberRunner -INFO -URL Opened
+2018-08-22 19:16:06,296 -Login -INFO -signin clicked
+2018-08-22 19:16:06,492 -Login -INFO -username entered
+2018-08-22 19:16:06,604 -Login -INFO -password entered
+2018-08-22 19:16:08,194 -Login -INFO -Login button clicked
+2018-08-22 19:16:18,260 -Login -INFO -assert value finded
+2018-08-22 19:16:19,859 -VerifyAddress -INFO -menu Clicked
+2018-08-22 19:16:20,919 -VerifyAddress -INFO -my add Clicked
+2018-08-22 19:16:30,981 -VerifyAddress -INFO -assert captured
+2018-08-22 19:38:08,275 -CucumberRunner -INFO -driver initilized
+2018-08-22 19:38:08,282 -CucumberRunner -INFO -browser opened
+2018-08-22 19:38:09,435 -CucumberRunner -INFO -maximized
+2018-08-22 19:38:47,458 -CucumberRunner -INFO -URL Opened
+2018-08-22 19:52:40,433 -CucumberRunner -INFO -driver initilized
+2018-08-22 19:52:40,438 -CucumberRunner -INFO -browser opened
+2018-08-22 19:52:41,599 -CucumberRunner -INFO -maximized
+2018-08-22 19:53:19,796 -CucumberRunner -INFO -URL Opened
+2018-08-22 19:53:22,616 -Login -INFO -signin clicked
+2018-08-22 19:53:22,768 -Login -INFO -username entered
+2018-08-22 19:53:22,876 -Login -INFO -password entered
+2018-08-22 19:53:24,341 -Login -INFO -Login button clicked
+2018-08-22 19:55:41,227 -CucumberRunner -INFO -driver initilized
+2018-08-22 19:55:41,233 -CucumberRunner -INFO -browser opened
+2018-08-22 19:55:42,377 -CucumberRunner -INFO -maximized
+2018-08-22 19:56:20,769 -CucumberRunner -INFO -URL Opened
+2018-08-22 19:56:23,123 -Login -INFO -signin clicked
+2018-08-22 19:56:23,323 -Login -INFO -username entered
+2018-08-22 19:56:23,440 -Login -INFO -password entered
+2018-08-22 19:56:24,837 -Login -INFO -Login button clicked
+2018-08-22 20:11:06,409 -CucumberRunner -INFO -driver initilized
+2018-08-22 20:11:06,415 -CucumberRunner -INFO -browser opened
+2018-08-22 20:11:07,562 -CucumberRunner -INFO -maximized
+2018-08-22 20:11:44,876 -CucumberRunner -INFO -URL Opened
+2018-08-22 20:11:47,708 -Login -INFO -signin clicked
+2018-08-22 20:11:47,888 -Login -INFO -username entered
+2018-08-22 20:11:48,000 -Login -INFO -password entered
+2018-08-22 20:11:49,218 -Login -INFO -Login button clicked
+2018-08-22 20:12:00,689 -Login -INFO -assert value finded
+2018-08-22 20:14:41,613 -CucumberRunner -INFO -driver initilized
+2018-08-22 20:14:41,616 -CucumberRunner -INFO -browser opened
+2018-08-22 20:14:42,762 -CucumberRunner -INFO -maximized
+2018-08-22 20:15:20,984 -CucumberRunner -INFO -URL Opened
+2018-08-22 20:15:23,401 -Login -INFO -signin clicked
+2018-08-22 20:15:23,645 -Login -INFO -username entered
+2018-08-22 20:15:23,790 -Login -INFO -password entered
+2018-08-22 20:15:25,384 -Login -INFO -Login button clicked
+2018-08-22 20:15:37,873 -Login -INFO -assert value finded
+2018-08-22 20:18:55,891 -CucumberRunner -INFO -driver initilized
+2018-08-22 20:18:55,897 -CucumberRunner -INFO -browser opened
+2018-08-22 20:18:57,039 -CucumberRunner -INFO -maximized
+2018-08-22 20:19:35,620 -CucumberRunner -INFO -URL Opened
+2018-08-22 20:21:52,047 -CucumberRunner -INFO -driver initilized
+2018-08-22 20:21:52,051 -CucumberRunner -INFO -browser opened
+2018-08-22 20:21:53,197 -CucumberRunner -INFO -maximized
+2018-08-22 20:22:31,937 -CucumberRunner -INFO -URL Opened
+2018-08-22 20:22:34,507 -Login -INFO -signin clicked
+2018-08-22 20:22:34,752 -Login -INFO -username entered
+2018-08-22 20:22:34,856 -Login -INFO -password entered
+2018-08-22 20:22:36,548 -Login -INFO -Login button clicked
+2018-08-22 20:22:46,612 -Login -INFO -assert value finded
+2018-08-22 20:22:48,567 -VerifyAddress -INFO -menu Clicked
+2018-08-22 20:22:49,710 -VerifyAddress -INFO -my add Clicked
+2018-08-22 20:22:59,776 -VerifyAddress -INFO -assert captured
+2018-08-22 20:25:41,399 -CucumberRunner -INFO -driver initilized
+2018-08-22 20:25:41,402 -CucumberRunner -INFO -browser opened
+2018-08-22 20:25:42,551 -CucumberRunner -INFO -maximized
+2018-08-22 20:26:26,419 -CucumberRunner -INFO -URL Opened
+2018-08-22 20:26:29,399 -Login -INFO -signin clicked
+2018-08-22 20:26:29,627 -Login -INFO -username entered
+2018-08-22 20:26:29,727 -Login -INFO -password entered
+2018-08-22 20:26:31,652 -Login -INFO -Login button clicked
+2018-08-22 20:26:41,711 -Login -INFO -assert value finded
+2018-08-22 20:26:43,830 -VerifyAddress -INFO -menu Clicked
+2018-08-22 20:26:45,015 -VerifyAddress -INFO -my add Clicked
+2018-08-22 20:26:55,068 -VerifyAddress -INFO -assert captured
+2018-08-22 20:34:37,624 -CucumberRunner -INFO -driver initilized
+2018-08-22 20:34:37,629 -CucumberRunner -INFO -browser opened
+2018-08-22 20:34:38,764 -CucumberRunner -INFO -maximized
+2018-08-22 20:35:18,008 -CucumberRunner -INFO -URL Opened
+2018-08-22 20:39:50,993 -CucumberRunner -INFO -driver initilized
+2018-08-22 20:39:51,001 -CucumberRunner -INFO -browser opened
+2018-08-22 20:39:52,151 -CucumberRunner -INFO -maximized
+2018-08-22 20:40:34,872 -CucumberRunner -INFO -URL Opened
+2018-08-23 10:54:46,659 -CucumberRunner -INFO -driver initilized
+2018-08-23 10:54:46,664 -CucumberRunner -INFO -browser opened
+2018-08-23 10:54:47,847 -CucumberRunner -INFO -maximized
+2018-08-23 10:54:56,199 -CucumberRunner -INFO -URL Opened
+2018-08-23 10:54:59,309 -Login -INFO -signin clicked
+2018-08-23 10:54:59,481 -Login -INFO -username entered
+2018-08-23 10:54:59,577 -Login -INFO -password entered
+2018-08-23 10:55:01,293 -Login -INFO -Login button clicked
+2018-08-23 10:55:13,584 -Login -INFO -assert value finded
+2018-08-23 10:55:15,872 -Login -INFO -signin clicked
+2018-08-23 10:55:16,156 -Login -INFO -username entered
+2018-08-23 10:55:16,316 -Login -INFO -password entered
+2018-08-23 10:55:18,775 -Login -INFO -Login button clicked
+2018-08-23 10:55:28,839 -Login -INFO -assert value finded
+2018-08-23 10:55:30,829 -VerifyAddress -INFO -menu Clicked
+2018-08-23 10:55:32,761 -VerifyAddress -INFO -my add Clicked
+2018-08-23 10:55:42,834 -VerifyAddress -INFO -assert captured
+2018-08-23 11:00:58,441 -CucumberRunner -INFO -driver initilized
+2018-08-23 11:00:58,460 -CucumberRunner -INFO -browser opened
+2018-08-23 11:00:59,626 -CucumberRunner -INFO -maximized
+2018-08-23 11:01:06,994 -CucumberRunner -INFO -URL Opened
+2018-08-23 11:01:09,648 -Login -INFO -signin clicked
+2018-08-23 11:01:09,815 -Login -INFO -username entered
+2018-08-23 11:01:09,944 -Login -INFO -password entered
+2018-08-23 11:01:11,557 -Login -INFO -Login button clicked
+2018-08-23 11:01:23,857 -Login -INFO -assert value finded
+2018-08-23 11:01:25,854 -Login -INFO -signin clicked
+2018-08-23 11:01:26,014 -Login -INFO -username entered
+2018-08-23 11:01:26,110 -Login -INFO -password entered
+2018-08-23 11:01:28,741 -Login -INFO -Login button clicked
+2018-08-23 11:01:38,797 -Login -INFO -assert value finded
+2018-08-23 11:01:40,306 -VerifyAddress -INFO -menu Clicked
+2018-08-23 11:01:42,273 -VerifyAddress -INFO -my add Clicked
+2018-08-23 11:01:52,352 -VerifyAddress -INFO -assert captured
+2018-08-23 11:04:07,217 -CucumberRunner -INFO -driver initilized
+2018-08-23 11:04:07,235 -CucumberRunner -INFO -browser opened
+2018-08-23 11:04:08,392 -CucumberRunner -INFO -maximized
+2018-08-23 11:04:15,488 -CucumberRunner -INFO -URL Opened
+2018-08-23 11:04:18,093 -Login -INFO -signin clicked
+2018-08-23 11:04:18,256 -Login -INFO -username entered
+2018-08-23 11:04:18,370 -Login -INFO -password entered
+2018-08-23 11:04:19,779 -Login -INFO -Login button clicked
+2018-08-23 11:04:32,049 -Login -INFO -assert value finded
+2018-08-23 11:04:34,227 -Login -INFO -signin clicked
+2018-08-23 11:04:34,411 -Login -INFO -username entered
+2018-08-23 11:04:34,527 -Login -INFO -password entered
+2018-08-23 11:04:37,991 -Login -INFO -Login button clicked
+2018-08-23 11:04:48,077 -Login -INFO -assert value finded
+2018-08-23 11:04:49,896 -VerifyAddress -INFO -menu Clicked
+2018-08-23 11:04:52,191 -VerifyAddress -INFO -my add Clicked
+2018-08-23 11:05:02,262 -VerifyAddress -INFO -assert captured
+2018-08-23 11:15:48,586 -CucumberRunner -INFO -driver initilized
+2018-08-23 11:15:48,594 -CucumberRunner -INFO -browser opened
+2018-08-23 11:15:49,722 -CucumberRunner -INFO -maximized
+2018-08-23 11:16:01,033 -CucumberRunner -INFO -URL Opened
+2018-08-23 11:26:02,566 -CucumberRunner -INFO -driver initilized
+2018-08-23 11:26:02,572 -CucumberRunner -INFO -browser opened
+2018-08-23 11:26:03,712 -CucumberRunner -INFO -maximized
+2018-08-23 11:26:10,852 -CucumberRunner -INFO -URL Opened
+2018-08-23 11:30:11,067 -CucumberRunner -INFO -driver initilized
+2018-08-23 11:30:11,074 -CucumberRunner -INFO -browser opened
+2018-08-23 11:30:12,225 -CucumberRunner -INFO -maximized
+2018-08-23 11:30:18,997 -CucumberRunner -INFO -URL Opened
+2018-08-23 11:42:15,310 -CucumberRunner -INFO -driver initilized
+2018-08-23 11:42:15,313 -CucumberRunner -INFO -browser opened
+2018-08-23 11:42:16,443 -CucumberRunner -INFO -maximized
+2018-08-23 11:42:23,771 -CucumberRunner -INFO -URL Opened
+2018-08-23 11:48:09,774 -CucumberRunner -INFO -driver initilized
+2018-08-23 11:48:09,778 -CucumberRunner -INFO -browser opened
+2018-08-23 11:48:10,918 -CucumberRunner -INFO -maximized
+2018-08-23 11:48:18,142 -CucumberRunner -INFO -URL Opened
+2018-08-23 11:48:20,934 -Login -INFO -signin clicked
+2018-08-23 11:48:21,109 -Login -INFO -username entered
+2018-08-23 11:48:21,206 -Login -INFO -password entered
+2018-08-23 11:48:22,726 -Login -INFO -Login button clicked
+2018-08-23 11:48:34,933 -Login -INFO -assert value finded
+2018-08-23 11:48:36,991 -Login -INFO -signin clicked
+2018-08-23 11:48:37,145 -Login -INFO -username entered
+2018-08-23 11:48:37,241 -Login -INFO -password entered
+2018-08-23 11:48:40,697 -Login -INFO -Login button clicked
+2018-08-23 11:48:50,734 -Login -INFO -assert value finded
+2018-08-23 11:48:52,394 -VerifyAddress -INFO -menu Clicked
+2018-08-23 11:48:54,373 -VerifyAddress -INFO -my add Clicked
+2018-08-23 11:49:04,412 -VerifyAddress -INFO -assert captured
+2018-08-23 12:02:03,574 -CucumberRunner -INFO -driver initilized
+2018-08-23 12:02:03,577 -CucumberRunner -INFO -browser opened
+2018-08-23 12:02:04,707 -CucumberRunner -INFO -maximized
+2018-08-23 12:02:13,500 -CucumberRunner -INFO -URL Opened
+2018-08-23 12:02:16,303 -Login -INFO -signin clicked
+2018-08-23 12:02:16,461 -Login -INFO -username entered
+2018-08-23 12:02:16,550 -Login -INFO -password entered
+2018-08-23 12:02:18,002 -Login -INFO -Login button clicked
+2018-08-23 12:02:30,381 -Login -INFO -assert value finded
+2018-08-23 12:02:33,085 -Login -INFO -signin clicked
+2018-08-23 12:02:33,241 -Login -INFO -username entered
+2018-08-23 12:02:33,326 -Login -INFO -password entered
+2018-08-23 12:02:36,324 -Login -INFO -Login button clicked
+2018-08-23 12:02:46,372 -Login -INFO -assert value finded
+2018-08-23 12:02:48,345 -VerifyAddress -INFO -menu Clicked
+2018-08-23 12:02:50,238 -VerifyAddress -INFO -my add Clicked
+2018-08-23 12:03:00,274 -VerifyAddress -INFO -assert captured
+2018-08-23 12:05:49,798 -CucumberRunner -INFO -driver initilized
+2018-08-23 12:05:49,800 -CucumberRunner -INFO -browser opened
+2018-08-23 12:05:50,938 -CucumberRunner -INFO -maximized
+2018-08-23 12:05:58,088 -CucumberRunner -INFO -URL Opened
+2018-08-23 12:06:01,022 -Login -INFO -signin clicked
+2018-08-23 12:06:01,196 -Login -INFO -username entered
+2018-08-23 12:06:01,293 -Login -INFO -password entered
+2018-08-23 12:06:02,698 -Login -INFO -Login button clicked
+2018-08-23 12:06:14,820 -Login -INFO -assert value finded
+2018-08-23 12:06:17,052 -Login -INFO -signin clicked
+2018-08-23 12:06:17,210 -Login -INFO -username entered
+2018-08-23 12:06:17,296 -Login -INFO -password entered
+2018-08-23 12:06:20,658 -Login -INFO -Login button clicked
+2018-08-23 12:06:30,718 -Login -INFO -assert value finded
+2018-08-23 12:06:32,121 -VerifyAddress -INFO -menu Clicked
+2018-08-23 12:06:33,976 -VerifyAddress -INFO -my add Clicked
+2018-08-23 12:06:44,012 -VerifyAddress -INFO -assert captured
+2018-08-23 12:13:12,804 -CucumberRunner -INFO -driver initilized
+2018-08-23 12:13:12,808 -CucumberRunner -INFO -browser opened
+2018-08-23 12:13:13,930 -CucumberRunner -INFO -maximized
+2018-08-23 12:13:21,919 -CucumberRunner -INFO -URL Opened
+2018-08-23 12:13:24,817 -Login -INFO -signin clicked
+2018-08-23 12:13:24,996 -Login -INFO -username entered
+2018-08-23 12:13:25,089 -Login -INFO -password entered
+2018-08-23 12:13:26,472 -Login -INFO -Login button clicked
+2018-08-23 12:13:43,916 -Login -INFO -assert value finded
+2018-08-23 12:13:51,302 -Login -INFO -signin clicked
+2018-08-23 12:13:51,434 -Login -INFO -username entered
+2018-08-23 12:13:51,525 -Login -INFO -password entered
+2018-08-23 12:13:59,225 -Login -INFO -Login button clicked
+2018-08-23 12:14:09,286 -Login -INFO -assert value finded
+2018-08-23 12:14:15,778 -VerifyAddress -INFO -menu Clicked
+2018-08-23 12:14:22,967 -VerifyAddress -INFO -my add Clicked
+2018-08-23 12:14:33,014 -VerifyAddress -INFO -assert captured
